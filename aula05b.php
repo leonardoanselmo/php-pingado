@@ -6,8 +6,8 @@
 </head>
 <body>
 	<?php 
-		$n1 = $_GET["a"];
-		$n2 = $_GET["b"];
+		$n1 = $_GET['a'];
+		$n2 = $_GET['b'];
 		echo "<h2> Valores recebidos de: $n1 e $n2</h2>"
 
 	?>
