@@ -7,9 +7,9 @@
 <body>
 
 	<?php 
-		$numero = 4;
+		$idade = 33;
 		$nome = 'Leonardo';
-		print $nome;
+		echo "Nome: " . $nome . " tem " . $idade . " anos";
 	?>
 
 	
