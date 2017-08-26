@@ -9,7 +9,8 @@
 	<?php 
 		$idade = 33;
 		$nome = 'Leonardo';
-		echo "Nome: " . $nome . " tem " . $idade . " anos";
+		echo "Nome: " . $nome . " tem " . $idade . " anos" . "</br>";
+		echo "Nome $nome tem $idade anos.";
 	?>
 
 	
