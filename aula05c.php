@@ -7,8 +7,8 @@
 		h2 {
 			font: 15pt Verdana;
 			color: #171559;
-			font-weight: bold;
-		}
+			font-weight: bold; 
+		} 
 	</style>
 </head>
 <body>
@@ -25,6 +25,7 @@
 		echo "A parte inteira de $v2 é: ".intval($v2)."</br>";
 		echo "O valor em moeda de $v2 é: R$ ".number_format($v2, 2, ',', '.');
 	?>
+
 	
 </body>
 </html>
